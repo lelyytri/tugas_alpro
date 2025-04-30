@@ -1,4 +1,4 @@
-#edit dari github
+#edit GitHub
 import tkinter as tk
 import random
 
